@@ -12,3 +12,4 @@ buon giorno
 - ISTRIA
 - CA' GRANDA
 - BICCOCA
+- PONALE
