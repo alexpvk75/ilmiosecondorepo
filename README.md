@@ -7,3 +7,4 @@ buon giorno
 - DERGANO
 - MACIACCHINI
 - ZARA
+- SONDRIO
