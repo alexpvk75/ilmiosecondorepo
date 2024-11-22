@@ -4,3 +4,4 @@ buon giorno
 - COMASINA
 - AFFORI FN
 - AFFORI CENTRO
+- DERGANO
